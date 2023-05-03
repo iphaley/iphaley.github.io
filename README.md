@@ -102,15 +102,16 @@ p    {color: red;}
                 <h1> Hobbies</h1>
                 <div>
                     <img src="snakegame.png">
-                    <p>Building Games</p>
+                    <p>Basketball</p>
                 </div>
                 <div>
                     <img src="webdesign.jpg">
-                    <p>Building Websites</p>
+                    <p>Working out</p>
                 </div>
                 <div>
-                    <img src="coder.jpg">
-                    <p>Playing with codes</p>
+                    <img src="https://user-images.githubusercontent.com/124221977/236058899-6946dbc6-2899-47cf-9c9a-23a74c1bc001.png"
+">
+                    <p>Video Games</p>
                 </div>
             </div>
         </section>
@@ -121,21 +122,21 @@ p    {color: red;}
                     <ul>
                         <li>Public Speaking</li>
                         <li>Organization</li>
-                        <li>JavaScript</li>
+                        <li>Microsoft Excel</li>
                     </ul>
                 </div>
                 <div>
                     <ul>
-                        <li>Wordpress</li>
+                        <li>Java</li>
                         <li>Python</li>
-                        <li>Machine Learning</li>
+                        <li>Building Computers</li>
                     </ul>
                 </div>
                 <div>
                     <ul>
                         <li>Photoshop</li>
                         <li>Office Word</li>
-                        <li>Web App</li>
+                        <li>Photography</li>
                     </ul>
                 </div>
             </div>
@@ -169,15 +170,15 @@ p    {color: red;}
             <div class="inner">
                 <h1>Contact Me</h1>
                 <div class="contact-links">
-                    <a href="https://xyz/abcul.abc.5/" target="_blank" class="btn contact-details"><i
+                    <a href="https://www.facebook.com/ian.haley.735" target="_blank" class="btn contact-details"><i
                             class="fab fa-facebook-square"></i> Facebook</a>
                     <a id="profile-link" target="_blank"
-                        class="btn contact-details"><i class="fab fa-github"></i> GitHub</a>
+                        class="https://github.com/iphaley"><i class="fab fa-github"></i> GitHub</a>
                     <a href="www.linkedin.com/in/
 ian-haley-57493b135" target="_blank"
                         class="btn contact-details"><i class="fab fa-linkedin-in"></i> LinkedIn</a>
-                    <a href="mailto:abc@gm.com" class="btn contact-details"><i class="fas fa-at"></i> Send
-                        a mail</a>
+                    <a href="mailto:iphaley2001@gmail.com" class="btn contact-details"><i class="fas fa-at"></i> Send
+                        an email</a>
                     <a href="(314) 677-5572" class="btn contact-details"><i class="fas fa-mobile-alt"></i> Call me</a>
                 </div>
             </div>
