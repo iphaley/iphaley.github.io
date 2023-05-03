@@ -78,19 +78,19 @@ p    {color: red;}
  ">
                     <h2>10<sup>th </sup>: Kirkwood High School</h2>
                     <p>Diploma</p>
-                    <p>YOP : 2019</p>
+                    <p>Graduated : 2019</p>
 
                 </div>
                 <div>
                     <img src="https://en.wikipedia.org/wiki/Missouri_Tigers#/media/File:Missouri_Tigers_logo.svg.png">
                     <h2>12<sup>th </sup>: University of Missouri</h2>
                     <p>Business Finance</p>
-                    <p>YOP : 2023</p>
+                    <p>Graduating : 2023</p>
 
                 </div>
                 <div>
                     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/WashU_Logo.svg/1200px-WashU_Logo.svg.png">
-                    <h2>B.Tech : Washington University</h2>
+                    <h2> Washington University</h2>
                     <p>Juris Doctor</p>
                     <p>2023-2026</p>
 
