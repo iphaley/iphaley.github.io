@@ -74,24 +74,26 @@ p    {color: red;}
             <div class="inner">
                 <h1>Education</h1>
                 <div>
-                    <img src="kvlogo.png">
-                    <h2>10<sup>th </sup>: University of Missouri</h2>
+                    <img src="7B9F8C46-15A0-4ED7-AEE3-6C333547741A](https://user-images.githubusercontent.com/124221977/236012386-cff6eb74-4e1c-4123-a567-d4b60da5d9d1.jpg
+ ">
+                    <h2>10<sup>th </sup>: Kirkwood High School</h2>
+                    <p>Board : CBSE</p>
+                    <p>YOP : 2019</p>
+
+                </div>
+                <div>
+                    <img src="!MU_UniversitySig_vert_RGB(https://user-images.githubusercontent.com/124221977/236012225-5ce309b6-2f93-4323-93a0-ac4e879748c3.png
+           ">
+                    <h2>12<sup>th </sup>: University of Missouri</h2>
                     <p>Board : CBSE</p>
                     <p>YOP : 2023</p>
 
                 </div>
                 <div>
-                    <img src="kvlogo.png">
-                    <h2>12<sup>th </sup>: University of Missouri</h2>
-                    <p>Board : CBSE</p>
-                    <p>YOP : 2015</p>
-
-                </div>
-                <div>
-                    <img src="UniversityLogo.png">
-                    <h2>B.Tech : Aliah University</h2>
-                    <p>Computer Science Engineering</p>
-                    <p>2016 - 2020</p>
+                    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/WashU_Logo.svg/1200px-WashU_Logo.svg.png">
+                    <h2>B.Tech : Washington University</h2>
+                    <p>Juris Doctor</p>
+                    <p>2023-2026</p>
 
                 </div>
             </div>
@@ -118,8 +120,8 @@ p    {color: red;}
                 <h1>Skillls</h1>
                 <div>
                     <ul>
-                        <li>HTML</li>
-                        <li>CSS</li>
+                        <li>Public Speaking</li>
+                        <li>Organization</li>
                         <li>JavaScript</li>
                     </ul>
                 </div>
