@@ -11,7 +11,7 @@ p    {color: red;}
 <body>
 
 <h1>My Resume</h1>
-<p>This is a paragraph.</p>
+<p>Paragraph 1.</p>
 
 </body>
 </html>
@@ -77,14 +77,14 @@ p    {color: red;}
                     <img src="[7B9F8C46-15A0-4ED7-AEE3-6C333547741A](https://user-images.githubusercontent.com/124221977/236012386-cff6eb74-4e1c-4123-a567-d4b60da5d9d1.jpg](https://upload.wikimedia.org/wikipedia/en/a/a4/Kirkwood_High_School_logo.png)
  ">
                     <h2>10<sup>th </sup>: Kirkwood High School</h2>
-                    <p>Board : CBSE</p>
+                    <p>Diploma</p>
                     <p>YOP : 2019</p>
 
                 </div>
                 <div>
                     <img src="https://en.wikipedia.org/wiki/Missouri_Tigers#/media/File:Missouri_Tigers_logo.svg.png">
                     <h2>12<sup>th </sup>: University of Missouri</h2>
-                    <p>Board : CBSE</p>
+                    <p>Business Finance</p>
                     <p>YOP : 2023</p>
 
                 </div>
