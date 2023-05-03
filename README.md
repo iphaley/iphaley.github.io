@@ -153,7 +153,7 @@ p    {color: red;}
                 </div>
                 <div>
                     <img src="x">
-                    <a href="https://abc.github.io/weatherappproject/" target="_blank">
+                    <a href="(https://www.senate.gov/senators/qualifications_termsofservice.htm" target="_blank">
                         <p>Running for Senator/Represenative</p>
                     </a>
                 </div>
