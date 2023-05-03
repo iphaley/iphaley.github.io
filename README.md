@@ -3,7 +3,7 @@
 <html>
 
 <head>
-    <title>Md abcul abc | Front-End Designer</title>
+    <title>Ian Haley| Business Student </title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width initial-scale=1 shrink-to-fit=no">
     <link rel="stylesheet" type="text/css" href="style.css">
@@ -46,15 +46,7 @@
             <div class="inner">
                 <h1>About</h1>
                 <p>
-                    I am freshly undergrad in Computer Science Engineering from Aliah University.
-                    Currently I am learning to design the Front-End part of the Website.
-                    I am working with HTML, CSS and JavaScript.<br>
-                    I am also interested to learn about Artificial Intelligence concept and want to understand how AI
-                    works in real life and make our life simpler.<br>
-                    In the certification page you will see many certificates but for your clarifications I want to say
-                    you that I have not done any course for the certificates.
-                    The thing is, I have done many courses because in every course I have attended, I get to learn many
-                    new things which I did not knew before, That's why I do a lot of course in the same field.<br>
+                    I am just graduating college, looking to further my skills in coding, business and other sales areas. <br>
                 </p>
             </div>
         </section>
