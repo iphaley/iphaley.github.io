@@ -178,9 +178,7 @@ ian-haley-57493b135" target="_blank"
                         class="btn contact-details"><i class="fab fa-linkedin-in"></i> LinkedIn</a>
                     <a href="mailto:abc@gm.com" class="btn contact-details"><i class="fas fa-at"></i> Send
                         a mail</a>
-                    <a href="https://api.wp.com/send?phone=919876543210&amp;text=Hi there! I have a question :)"
-                        class="btn contact-details"><i class="fab fa-wp"></i> wp</a>
-                    <a href="tel:9876543210" class="btn contact-details"><i class="fas fa-mobile-alt"></i> Call me</a>
+                    <a href="(314) 677-5572" class="btn contact-details"><i class="fas fa-mobile-alt"></i> Call me</a>
                 </div>
             </div>
         </section>
