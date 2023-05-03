@@ -100,15 +100,12 @@ p    {color: red;}
             <div class="inner">
                 <h1> Hobbies</h1>
                 <div>
-                    <img src="x">
                     <p>Basketball</p>
                 </div>
                 <div>
-                    <img src="x">
                     <p>Working out</p>
                 </div>
-                <div>
-                    <img src="https://user-images.githubusercontent.com/124221977/236063926-b33b716a-9864-4269-b3b5-a6912e2d494b.jpg">
+                <div>                  
                     <p>Video Games</p>
                 </div>
             </div>
