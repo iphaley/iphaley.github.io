@@ -74,8 +74,7 @@ p    {color: red;}
             <div class="inner">
                 <h1>Education</h1>
                 <div>
-                    <img src="[7B9F8C46-15A0-4ED7-AEE3-6C333547741A](https://user-images.githubusercontent.com/124221977/236012386-cff6eb74-4e1c-4123-a567-d4b60da5d9d1.jpg](https://upload.wikimedia.org/wikipedia/en/a/a4/Kirkwood_High_School_logo.png)
- ">
+                    <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Kirkwood_High_School_logo.png">
                     <h2>10<sup>th </sup>: Kirkwood High School</h2>
                     <p>Diploma</p>
                     <p>Graduated : 2019</p>
