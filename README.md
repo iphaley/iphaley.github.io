@@ -110,7 +110,7 @@ p    {color: red;}
                 </div>
             </div>
         </section>
-        <section class="skills" id="skills">
+        <section class="skils" id="skills">
             <div class="inner">
                 <h1>Skillls</h1>
                 <div>
