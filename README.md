@@ -44,7 +44,7 @@ p    {color: red;}
         <a href="#hobbies">Hobbies</a>
         <a href="#skills">Skills</a>
         <a href="#goals">goals</a>
-        <a href="certificates.html">Certifications</a>
+        <a href="certificates.html">Resume</a>
         <a href="#contacts">Contacts</a>
         <a href="javascript:void(0);" class="icon" onclick="myFunction()">
             <i class="fa fa-bars"></i>
@@ -142,21 +142,18 @@ p    {color: red;}
         <section id="projects" class="projects">
             <div class="inner">
                 <h1>These are some of my goals</h1>
-                <div>
-                    <img src="numbergame1.png">
+                <div>                  
                     <a href="https://www.sba.gov/business-guide/10-steps-start-your-business" target="_blank"
                         class="project project-tile">
                         <p>Owning a Business</p>
                     </a>
                 </div>
-                <div>
-                    <img src="x">
+                <div>                   
                     <a href="https://www.senate.gov/senators/qualifications_termsofservice.htm" target="_blank">
                         <p>Running for Senator/Represenative</p>
                     </a>
                 </div>
                 <div>
-                    <img src="x">
                     <a href="https://www.discoverboating.com/buying/boat-buyers-guide" target="_blank">
                         <p>Owning a boat</p>
                     </a>
