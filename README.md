@@ -82,7 +82,6 @@ p    {color: red;}
                 </div>
                 <div>
                     <img src="https://user-images.githubusercontent.com/124221977/236062425-d2c8b831-fdb7-4249-adc6-4e5b518ea0cf.jpg">
-">
                     <h2>12<sup>th </sup>: University of Missouri</h2>
                     <p>Business Finance</p>
                     <p>Graduating : 2023</p>
