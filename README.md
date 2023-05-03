@@ -171,7 +171,7 @@ p    {color: red;}
                 <div class="contact-links">
                     <a href="https://xyz/abcul.abc.5/" target="_blank" class="btn contact-details"><i
                             class="fab fa-facebook-square"></i> Facebook</a>
-                    <a id="profile-link" href="https://github.com/xyz" target="_blank"
+                    <a id="profile-link" target="_blank"
                         class="btn contact-details"><i class="fab fa-github"></i> GitHub</a>
                     <a href="www.linkedin.com/in/
 ian-haley-57493b135" target="_blank"
