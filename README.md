@@ -101,11 +101,11 @@ p    {color: red;}
             <div class="inner">
                 <h1> Hobbies</h1>
                 <div>
-                    <img src="snakegame.png">
+                    <img src="x">
                     <p>Basketball</p>
                 </div>
                 <div>
-                    <img src="webdesign.jpg">
+                    <img src="x">
                     <p>Working out</p>
                 </div>
                 <div>
@@ -152,14 +152,14 @@ p    {color: red;}
                     </a>
                 </div>
                 <div>
-                    <img src="weather.png">
+                    <img src="x">
                     <a href="https://abc.github.io/weatherappproject/" target="_blank">
                         <p>Running for Senator/Represenative</p>
                     </a>
                 </div>
                 <div>
-                    <img src="calculator.png">
-                    <a href="https://abc.github.io/JavaScriptCalculator/" target="_blank">
+                    <img src="x">
+                    <a href="y" target="_blank">
                         <p>Owning a boat</p>
                     </a>
                 </div>
