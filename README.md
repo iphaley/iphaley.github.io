@@ -43,7 +43,7 @@ p    {color: red;}
         <a href="#education">Education</a>
         <a href="#hobbies">Hobbies</a>
         <a href="#skills">Skills</a>
-        <a href="#projects">Projects</a>
+        <a href="#goals">goals</a>
         <a href="certificates.html">Certifications</a>
         <a href="#contacts">Contacts</a>
         <a href="javascript:void(0);" class="icon" onclick="myFunction()">
