@@ -155,8 +155,10 @@ p    {color: red;}
                 </div>
                 <div>
                     <a href="https://www.discoverboating.com/buying/boat-buyers-guide" target="_blank">
-                        <p>Owning a boat</p>
-                    </a>
+                        <p>Owning a boat</p>                      
+                    </a> 
+                     <section class="A block of code" id="code">
+            <div class="inner">
                 </div>
                 <a href="https://github.com/abc" class="btn-show-all" target="_blank">Show all</a>
             </div>
