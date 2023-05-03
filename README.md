@@ -108,7 +108,7 @@ p    {color: red;}
                     <p>Working out</p>
                 </div>
                 <div>
-                    <img src="pexels-li-sun-2294361](https://user-images.githubusercontent.com/124221977/236063926-b33b716a-9864-4269-b3b5-a6912e2d494b.jpg">
+                    <img src="https://user-images.githubusercontent.com/124221977/236063926-b33b716a-9864-4269-b3b5-a6912e2d494b.jpg">
                     <p>Video Games</p>
                 </div>
             </div>
