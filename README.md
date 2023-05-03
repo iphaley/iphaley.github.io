@@ -143,24 +143,24 @@ p    {color: red;}
         </section>
         <section id="projects" class="projects">
             <div class="inner">
-                <h1>These are some of my projects</h1>
+                <h1>These are some of my goals</h1>
                 <div>
                     <img src="numbergame1.png">
                     <a href="https://abc.github.io/GuessTheNumberGame/" target="_blank"
                         class="project project-tile">
-                        <p>Guess The Number - Game</p>
+                        <p>Owning a Business</p>
                     </a>
                 </div>
                 <div>
                     <img src="weather.png">
                     <a href="https://abc.github.io/weatherappproject/" target="_blank">
-                        <p>Weather App</p>
+                        <p>Running for Senator/Represenative</p>
                     </a>
                 </div>
                 <div>
                     <img src="calculator.png">
                     <a href="https://abc.github.io/JavaScriptCalculator/" target="_blank">
-                        <p>JavaScript Calculator</p>
+                        <p>Owning a boat</p>
                     </a>
                 </div>
                 <a href="https://github.com/abc" class="btn-show-all" target="_blank">Show all</a>
