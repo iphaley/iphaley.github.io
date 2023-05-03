@@ -173,7 +173,8 @@ p    {color: red;}
                             class="fab fa-facebook-square"></i> Facebook</a>
                     <a id="profile-link" href="https://github.com/xyz" target="_blank"
                         class="btn contact-details"><i class="fab fa-github"></i> GitHub</a>
-                    <a href="https://www.linkedin.com/in/md-abcul-abc-b42200127/" target="_blank"
+                    <a href="www.linkedin.com/in/
+ian-haley-57493b135" target="_blank"
                         class="btn contact-details"><i class="fab fa-linkedin-in"></i> LinkedIn</a>
                     <a href="mailto:abc@gm.com" class="btn contact-details"><i class="fas fa-at"></i> Send
                         a mail</a>
