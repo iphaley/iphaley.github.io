@@ -172,6 +172,7 @@ ian-haley-57493b135" target="_blank"
                         an email</a>
                     <a href="(314) 677-5572" class="btn contact-details"><i class="fas fa-mobile-alt"></i> Call me</a>
                     <a href="./page_2.html"> Page 2</a>
+                    <a href="./page_3.html"> Page 3</a>
                 </div>
             </div>
         </section>
