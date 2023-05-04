@@ -2,5 +2,36 @@
 <html>
 <body>
   <i> This text is squiggly </i>
+  <em>
+  # Create a list with the following values: 6, 5, 3, 8, 4, 2, 5, 4, 11, 43, 1, 17, 27, 90, 77, 62, 51, 47, 82, 86, 20
+values = [6, 5, 3, 8, 4, 2, 5, 4, 11, 43, 1, 17, 27, 90, 77, 62, 51, 47, 82, 86, 20]
+
+# Your will write code to do the following and print a report to the user.
+# Determine how many numbers are in the list.
+count = 0
+for num in values:
+    count += 1
+print("There are", count, "numbers in the list")
+
+# Calculate the sum of all numbers in the list.
+total = 0
+for num in values:
+    total += num
+print("Sum of all numbers in the list is", total)
+
+# Calculate the average of all number in the list.
+print("Average of all numbers in the list is", total / count)
+
+# Use a While loop to print all the numbers in the list with their index values.
+i = 0
+while i < len(values):
+    print("Value at index", i, "is", values[i])
+    i += 1
+print()
+
+# Use a For loop and the range() function to print every other number in the list with their index values.
+for i in range(0, len(values), 2):
+    print("Value at index", i, "is", values[i])
+                      </em>
 </body>
 </html>
