@@ -15,7 +15,6 @@ p    {color: red;}
 
 </body>
 </html>
-<!DOCTYPE html>
 <html>
 
 <head>
