@@ -171,7 +171,7 @@ ian-haley-57493b135" target="_blank"
                     <a href="mailto:iphaley2001@gmail.com" class="btn contact-details"><i class="fas fa-at"></i> Send
                         an email</a>
                     <a href="(314) 677-5572" class="btn contact-details"><i class="fas fa-mobile-alt"></i> Call me</a>
-                    <a href="./ian_project/page_2.html"> Page 2</a>
+                    <a href="ian_project/page_2.html"> Page 2</a>
                 </div>
             </div>
         </section>
