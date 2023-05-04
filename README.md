@@ -180,7 +180,7 @@ ian-haley-57493b135" target="_blank"
     <footer class="footer">
         <p>
             <marquee onmouseover="this.stop();" onmouseout="this.start();" behavior="alternate">This page is created by Ian Haley
-                <span>Md abcul abc</span><sup>©</sup>.</marquee>
+                <span>bc</span><sup>©</sup>.</marquee>
         </p>
     </footer>
     <script>
