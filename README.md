@@ -191,6 +191,7 @@ ian-haley-57493b135" target="_blank"
             }
         }
     </script>
+        <a href="./page_2.html">Page 2</a>
 
 </body>
 
