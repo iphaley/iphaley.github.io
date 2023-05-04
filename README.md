@@ -154,6 +154,7 @@ p    {color: red;}
                     </a> 
                 <a href="https://github.com/abc" class="btn-show-all" target="_blank">Show all</a>
             </div>
+            </div>
         </section>
         <section class="contacts" id="contacts">
             <div class="inner">
