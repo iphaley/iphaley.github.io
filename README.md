@@ -1,6 +1,5 @@
 # iphaley.github.io
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -153,7 +152,7 @@ p    {color: red;}
                         <p>Owning a boat</p>                      
                     </a> 
                 <a href="https://github.com/abc" class="btn-show-all" target="_blank">Show all</a>
-            </div>
+                </div>
             </div>
         </section>
         <section class="contacts" id="contacts">
