@@ -11,7 +11,6 @@ p    {color: red;}
 <body>
 
 <h1>My Resume</h1>
-<p>Paragraph 1.</p>
 
 </body>
 
