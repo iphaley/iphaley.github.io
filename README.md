@@ -175,12 +175,11 @@ ian-haley-57493b135" target="_blank"
                     <a href="./page_5.html"> Page 5</a>
                 </div>
             </div>
-        </section>
-    </section>
+            </section>
     <footer class="footer">
         <p>
             <marquee onmouseover="this.stop();" onmouseout="this.start();" behavior="alternate">This page is created by Ian Haley
-                <span>bc</span><sup>©</sup>.</marquee>
+                <sup>©</sup>.</marquee>
         </p>
     </footer>
     <script>
