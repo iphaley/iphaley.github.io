@@ -14,8 +14,7 @@ p    {color: red;}
 <p>Paragraph 1.</p>
 
 </body>
-</html>
-<html>
+
 
 <head>
     <title>Final Project|University of Missouri Student</title>
@@ -54,7 +53,6 @@ p    {color: red;}
         <section class="home" id="home">
             <div class="inner">
                 <img src="profile.jpg">
-                <p>Md abcul abc</p>
             </div>
         </section>
         <section class="about" id="about">
